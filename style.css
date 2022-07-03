@@ -132,9 +132,3 @@ p {
   color:hsl(224, 23%, 55%)
 }
 
-
-.navbar{
-  display: flex;
-  justify-content: flex-end;
-
-}
